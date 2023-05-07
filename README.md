@@ -1,16 +1,16 @@
-# Tribute Website
-This repository was created to comply with the claim requirements for the "Responsive Web Design Certification" certificate held by freecodecamp.org. Pada website yang berisikan tentang perjalanan kehidupan seseorang yang bernama Steve Jobs.
+# Tributes Website
+This repository was created to comply with the claim requirements for the "Responsive Web Design Certification" certificate held by freecodecamp.org. On a website that contains the journey of the life of a person named Steve Jobs.
 
 ## Tech
 
-We uses a number of open source projects to work properly:
+We use a number of open source projects to work properly:
 
-- [HTML] - Membuat halaman web dan menampilkan berbagai informasi di dalam sebuah browser Internet.
-- [CSS] - Mengubah serta mempercantik tampilan situs.
+- [HTML] - Creates web pages and displays various information in an Internet browser.
+- [CSS] - Designing the user interface of the site.
 
-## License
+##License
 
 MIT
 
-## Contact
+##Contact
 Ariiq Yusuf - @ariiqysf - ariiqyusufdu@gmail.com
